@@ -5,7 +5,5 @@ authors:
   given-names: "Edoardo"
   orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "Dataverse Upload Experiement"
-version: 1.0.0
 doi: 10.5072/zenodo.115467
-date-released: 2024-10-09
 url: "https://github.com/EdoardoCostantini/Dataverse-Upload-Experiement"
