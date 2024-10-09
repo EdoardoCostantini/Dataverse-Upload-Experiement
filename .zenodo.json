@@ -4,27 +4,5 @@
     "software",
     "repository",
     "github"
-  ],
-  "language": "eng",
-  "contributors": [
-    {
-      "name": "Costantini, Edoardo",
-      "affiliation": "Tilburg University",
-      "orcid": "0000-0001-9581-9913",
-      "type": "ContactPerson"
-    },
-    {
-      "name": "Costantini, Eduardo",
-      "affiliation": "Tilburg University",
-      "orcid": "0000-0001-9581-9913",
-      "type": "ProjectMember"
-    }
-  ],
-  "creators": [
-    {
-      "name": "Costantini, Edoardo",
-      "affiliation": "Tilburg University",
-      "orcid": "0000-0001-9581-9913",
-    }
   ]
 }
