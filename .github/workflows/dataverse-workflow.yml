@@ -1,6 +1,8 @@
 name: Dataverse Upload Workflow
 
-on: release
+on:
+  release:
+    types: [published]
 
 jobs:
   build:
