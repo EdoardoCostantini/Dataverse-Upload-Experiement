@@ -1,6 +1,7 @@
 name: Dataverse Upload Workflow
 
 on:
+  workflow_dispatch:
   release:
     types: [published]
 
@@ -14,4 +15,4 @@ jobs:
           DATAVERSE_TOKEN: ${{secrets.DATAVERSE_TOKEN}}
           DATAVERSE_SERVER: https://demo.dataverse.nl
           DATAVERSE_DATASET_DOI: doi:10.80227/PDVNL/KQ301R
-          DELETE: True
+          DELETE: TRUE
